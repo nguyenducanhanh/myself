@@ -12174,11 +12174,13 @@ pre .code {
   min-width: 400px;
   max-width: 400px;
   margin-right: 20px;
+  
 }
 
 .about-img-holder .about-img {
   width: 100%;
   margin-bottom: 15px;
+  border-radius: 40px;
 }
 
 .about-caption {
